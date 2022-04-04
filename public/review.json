@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "img":"https://sm.imgix.net/22/09/lionel-messi.jpg",
+        "name":"Lionel Messi",
+        "review":"This bike is damn good.",
+        "ratings":5
+    },
+    {
+        "id":2,
+        "img":"https://boardroom.tv/wp-content/uploads/2021/08/GettyImages-941498254-e1630006378629-1280x720.jpg",
+        "name":"Cristiano Ronaldo",
+        "review":"This bike is crazy dangerous.",
+        "ratings":4.9
+    },
+    {
+        "id":3,
+        "img":"https://i.guim.co.uk/img/media/27fe8418a3ee15e91b0d170e7a104eb6f04255d6/0_153_2560_1536/master/2560.jpg?width=1200&quality=85&auto=format&fit=max&s=ccba8dadf4056c31ae3719ef230c5af2",
+        "name":"Neymar",
+        "review":"I love this bike.",
+        "ratings":5
+    },
+    {
+        "id":4,
+        "img":"https://library.sportingnews.com/styles/twitter_card_120x120/s3/2021-12/kylianmbappepsgmancitychampionsleague2021-22png_1kulpsnx7wqhw1czyhjhfekmvr.png?itok=ueveyV_x",
+        "name":"Mbappe",
+        "review":"The best bike in the world.",
+        "ratings":4.8
+    },
+    {
+        "id":5,
+        "img":"https://i.guim.co.uk/img/media/5f1c5ea628f850be9ecfbee70249e4e5ae05faa6/474_315_3167_1899/master/3167.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=bdc1ec1553a52eb796373ccf46f8cb88",
+        "name":"Benzema",
+        "review":"This is my favourite bike.",
+        "ratings":4.7
+    },
+    {
+        "id":6,
+        "img":"https://images2.gazzettaobjects.it/methode_image/2022/03/05/Calcio/Foto_Calcio_-_Trattate/0e3fb6211877dd1ee4b44a68a47e50a5_1200x675.jpg",
+        "name":"Ibrahimovic",
+        "review":"My dream bike.",
+        "ratings":5
+    }
+]
