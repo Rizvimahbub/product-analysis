@@ -1,7 +1,5 @@
 # Bike Review Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## My project websites live link:
  https://shimmering-mousse-1d4a51.netlify.app
 
