@@ -6,14 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+### Some information of my page
+Here are some different pages like Home,Reviews,Dashboard,Blogs and About.In home page there are some description about a bike which name is BMW M 1000RR.There are also some reviews in that page.In the second page which is Reviews.People share their comments.In the next page we have shown some charts and in the last page we give some question answers. 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
