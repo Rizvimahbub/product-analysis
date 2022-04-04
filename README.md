@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## My project websites live link:
+ https://shimmering-mousse-1d4a51.netlify.app
 
-In the project directory, you can run:
 
 ### Some information of my page
 Here are some different pages like Home,Reviews,Dashboard,Blogs and About.In home page there are some description about a bike which name is BMW M 1000RR.There are also some reviews in that page.In the second page which is Reviews.People share their comments.In the next page we have shown some charts and in the last page we give some question answers. 
