@@ -1,16 +1,15 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import useReviews from '../../hooks/useReviews';
 import Review from '../Review/Review';
 import './Home.css';
 
 const Home = () => {
     const [reviews, setReviews] = useReviews('review.json');
-    const [reviews3, setReview] = useState([])
+    
 
-    const showReview = () => {
-        const reviews3 = reviews.slice(1,4);
-        setReview(reviews3);
-    }
+    
+
     return (
         <div>
             <div className='home-container'>
@@ -28,13 +27,13 @@ const Home = () => {
 
             <div className='review-container'>
             {
-                reviews3.map(review => <Review
+                reviews.slice(1,4).map(review => <Review
                 review={review}
                 key={review.id}></Review>)
             }
             </div>
+            <Link to='/reviews'><button>See All Reviews</button></Link>
             
-            <button onClick={showReview}>See All Reviews</button>
         </div>
     );
 };

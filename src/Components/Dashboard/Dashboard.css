@@ -1,0 +1,11 @@
+.chartlists{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:40px;
+    padding: 50px;
+}
+
+.chartlists h3{
+    color: rgb(37, 142, 240);
+    width: 50%;
+}
